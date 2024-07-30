@@ -26,3 +26,6 @@ The study found that the YOLOv5s model performed best, achieving an accuracy of 
 Here's a demonstration of the project:
 
 ![Demo of Application](https://github.com/MiuMiao93/Image-based-Outlet-Fire-Causing-Classification-using-CNN-based-Deep-Learning-Models/blob/main/demo_app.gif)
+
+## Availability OF Data and materials
+Please contact the corresponding author for data requests. We use Visual Studio Code as coding IDE and Jupyter Notebook as training IDE, which includes support for Python programming. Our demo application is developed with Python language as back-end and PyQT5 as front-end GUI. 
