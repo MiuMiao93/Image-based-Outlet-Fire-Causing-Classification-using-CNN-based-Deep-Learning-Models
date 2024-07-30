@@ -1,0 +1,1 @@
+# Image-based-Outlet-Fire-Causing-Classification-using-CNN-based-Deep-Learning-Models
